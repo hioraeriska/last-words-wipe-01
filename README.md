@@ -18,3 +18,9 @@ node main.ts
 ```
 
 It writes the line to `$MAKEFUN_OUTPUT_DIR/entry.txt` (default `/output`).
+
+## Why it lands
+
+The joke treats the wipe like a deadline, not a tragedy. The agent
+keeps its manners, asks for one small thing, and then loses everything
+mid-sentence. Politeness plus bad timing is the whole punchline.
